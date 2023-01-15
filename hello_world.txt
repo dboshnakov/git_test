@@ -1,1 +1,3 @@
 Hello world, first - Git tests! 
+git test #2 -> core.editor "code --wait" 
+asd
